@@ -275,8 +275,6 @@ button:hover{
 
     #page1 {
         min-height: 70vh;
-        /* position: fixed; */
-        background-color: red;
         width: 100%;
         padding: 20vw 3vw;
         /* display: inline-block; */
